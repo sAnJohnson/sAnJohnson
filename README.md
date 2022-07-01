@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sAnJohnson or Steven 
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning stuff
 - 📫 How to reach me: stevenjohnson@musicalnoise.co.uk
 - 🎶 https://open.spotify.com/artist/1FQ8jAudSIdccvtv0L5fEO?si=uGCdfKEQSP2UQe1ddnfBbQ
 
